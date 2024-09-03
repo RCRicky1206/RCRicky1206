@@ -25,7 +25,7 @@ public class Richixs {
             "Animal rescue", 
             "Aquatic rescue", 
             "Forest brigade member"
-        }
+        };
         this.code = new String[] {
             "GDScript",
             "Java",
@@ -34,11 +34,11 @@ public class Richixs {
             "MySQL"
             "Python",
             "R",
-        }
+        };
     }
 
     public void greet() {
-        System.out.println("Hola mundo, I use arch btw.")
+        System.out.println("Hola mundo, I use arch btw.");
     }
 }
 ```
@@ -51,7 +51,7 @@ public class Richixs {
   </a>
 </p>
 
-## Redes Sociales :yellow_heart:
+## Redes Sociales :blue_heart:
 
 <p align="center">
 <a href="https://www.facebook.com/RCRicky598" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="RCRicky598"/></a>
