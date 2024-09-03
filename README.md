@@ -1,4 +1,8 @@
 # <p align="center">Hola <img src="./assets/hi.gif" width="35px">, soy Richixs :penguin: </p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&color=8111F7&center=true&width=435&lines=Bienvenido+a+mi+perfil;Soy+Ricardo+%2F+Richixs;Computer+Engineering+Student;I+use+Arch+BTW" alt="Typing SVG" /></a>
+</p>
  
 ```java
 public class Richixs {
@@ -11,7 +15,7 @@ public class Richixs {
     public Richixs() {
         this.userName = "Richixs";
         this.name = "Ricardo Ramirez Caero";
-        this.ocupation = "Software development student";
+        this.ocupation = "Computer Engineering Student";
         this.hobbies = new String[] {
             "Gamer", 
             "Game developer", 
@@ -23,11 +27,13 @@ public class Richixs {
             "Forest brigade member"
         }
         this.code = new String[] {
-            "Java",
-            "Python",
             "GDScript",
-            "R",
+            "Java",
+            "JavaScript",
+            "Kotlin",
             "MySQL"
+            "Python",
+            "R",
         }
     }
 
@@ -37,4 +43,10 @@ public class Richixs {
 }
 ```
 
-## Bienvenido a mi perfil :octocat:
+## Tecnologías conocidas :purple_heart:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,arch,bash,blender,css,debian,bots,discordjs,figma,git,github,gitlab,gradle,godot,html,idea,ai,java,js,kotlin,latex,linux,mysql,ps,py,r,raspberrypi,ubuntu,vscode" />
+  </a>
+</p>
