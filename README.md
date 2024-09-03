@@ -1,4 +1,4 @@
-# <p align="center">Hola <img src="./assets/hi.gif" width="35px">, soy Richixs :penguin: </p>
+# <p align="center"><img src="./assets/hi.gif" width="35px">Hola, soy Richixs :penguin:</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&color=8111F7&center=true&width=435&lines=Bienvenido+a+mi+perfil;Soy+Ricardo+%2F+Richixs;Computer+Engineering+Student;I+use+Arch+BTW" alt="Typing SVG" /></a>
