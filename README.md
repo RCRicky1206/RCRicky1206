@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @RCRicky1206
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# <p align="center">Hola <img src="./assets/hi.gif" width="35px">, soy Richixs :penguin: </p>
+ 
+```java
+public class Richixs {
+    private string userName;
+    private string name;
+    private string ocupation;
+    private string[] hobbies;
+    private string[] code;
 
-<!---
-RCRicky1206/RCRicky1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    public Richixs() {
+        this.userName = "Richixs";
+        this.name = "Ricardo Ramirez Caero";
+        this.ocupation = "Software development student";
+        this.hobbies = new String[] {
+            "Gamer", 
+            "Game developer", 
+            "Drawing", 
+            "Digital design", 
+            "Volunteer firefighter (GEOS)", 
+            "Animal rescue", 
+            "Aquatic rescue", 
+            "Forest brigade member"
+        }
+        this.code = new String[] {
+            "Java",
+            "Python",
+            "GDScript",
+            "R",
+            "MySQL"
+        }
+    }
+
+    public void greet() {
+        System.out.println("Hola mundo, I use arch btw.")
+    }
+}
+```
+
+## Bienvenido a mi perfil :octocat:
